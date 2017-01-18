@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem06-StringLength\bin\Debug\Problem06-StringLength.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem06-StringLength\bin\Debug\Problem06-StringLength.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem06-StringLength\bin\Debug\Problem06-StringLength.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem06-StringLength\obj\Debug\Problem06-StringLength.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem06-StringLength\obj\Debug\Problem06-StringLength.pdb

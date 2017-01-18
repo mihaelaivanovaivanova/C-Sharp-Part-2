@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem05-Surface By Three Sides\bin\Debug\Problem05-Surface By Three Sides.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem05-Surface By Three Sides\bin\Debug\Problem05-Surface By Three Sides.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem05-Surface By Three Sides\bin\Debug\Problem05-Surface By Three Sides.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem05-Surface By Three Sides\obj\Debug\Problem05-Surface By Three Sides.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem05-Surface By Three Sides\obj\Debug\Problem05-Surface By Three Sides.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem05-Surface By Three Sides\obj\Debug\Problem05-Surface By Three Sides.pdb

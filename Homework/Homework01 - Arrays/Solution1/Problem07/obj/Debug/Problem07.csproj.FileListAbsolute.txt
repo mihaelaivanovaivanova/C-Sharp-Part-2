@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem07\bin\Debug\Problem07.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem07\bin\Debug\Problem07.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem07\bin\Debug\Problem07.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem07\obj\Debug\Problem07.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem07\obj\Debug\Problem07.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem07\obj\Debug\Problem07.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem15-ReplacingTags\bin\Debug\Problem15-ReplacingTags.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem15-ReplacingTags\bin\Debug\Problem15-ReplacingTags.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem15-ReplacingTags\bin\Debug\Problem15-ReplacingTags.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem15-ReplacingTags\obj\Debug\Problem15-ReplacingTags.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem15-ReplacingTags\obj\Debug\Problem15-ReplacingTags.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem15-ReplacingTags\obj\Debug\Problem15-ReplacingTags.pdb

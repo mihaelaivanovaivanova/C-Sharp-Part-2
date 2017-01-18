@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem05-ParseTags2\bin\Debug\Problem05-ParseTags2.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem05-ParseTags2\bin\Debug\Problem05-ParseTags2.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem05-ParseTags2\bin\Debug\Problem05-ParseTags2.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem05-ParseTags2\obj\Debug\Problem05-ParseTags2.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem05-ParseTags2\obj\Debug\Problem05-ParseTags2.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem05-ParseTags2\obj\Debug\Problem05-ParseTags2.csprojResolveAssemblyReference.cache

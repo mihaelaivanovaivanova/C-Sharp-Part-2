@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem08-ExtractSentances\bin\Debug\Problem08-ExtractSentances.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem08-ExtractSentances\bin\Debug\Problem08-ExtractSentances.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem08-ExtractSentances\bin\Debug\Problem08-ExtractSentances.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem08-ExtractSentances\obj\Debug\Problem08-ExtractSentances.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem08-ExtractSentances\obj\Debug\Problem08-ExtractSentances.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem08-ExtractSentances\obj\Debug\Problem08-ExtractSentances.pdb

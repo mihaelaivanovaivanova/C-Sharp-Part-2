@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem03-Day of Week\bin\Debug\Problem03-Day of Week.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem03-Day of Week\bin\Debug\Problem03-Day of Week.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem03-Day of Week\bin\Debug\Problem03-Day of Week.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem03-Day of Week\obj\Debug\Problem03-Day of Week.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem03-Day of Week\obj\Debug\Problem03-Day of Week.pdb

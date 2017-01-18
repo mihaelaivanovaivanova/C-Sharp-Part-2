@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam2012-04.02.2013Evening\Problem02-GreedyDworf\bin\Debug\Problem02-GreedyDworf.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam2012-04.02.2013Evening\Problem02-GreedyDworf\bin\Debug\Problem02-GreedyDworf.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam2012-04.02.2013Evening\Problem02-GreedyDworf\bin\Debug\Problem02-GreedyDworf.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam2012-04.02.2013Evening\Problem02-GreedyDworf\obj\Debug\Problem02-GreedyDworf.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam2012-04.02.2013Evening\Problem02-GreedyDworf\obj\Debug\Problem02-GreedyDworf.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam2012-04.02.2013Evening\Problem02-GreedyDworf\obj\Debug\Problem02-GreedyDworf.pdb

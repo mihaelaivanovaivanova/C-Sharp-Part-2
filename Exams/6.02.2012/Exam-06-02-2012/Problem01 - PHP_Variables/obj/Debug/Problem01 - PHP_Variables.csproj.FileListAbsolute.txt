@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\6.02.2012\Exam-06-02-2012\Problem01 - PHP_Variables\bin\Debug\Problem01 - PHP_Variables.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\6.02.2012\Exam-06-02-2012\Problem01 - PHP_Variables\bin\Debug\Problem01 - PHP_Variables.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\6.02.2012\Exam-06-02-2012\Problem01 - PHP_Variables\bin\Debug\Problem01 - PHP_Variables.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\6.02.2012\Exam-06-02-2012\Problem01 - PHP_Variables\obj\Debug\Problem01 - PHP_Variables.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\6.02.2012\Exam-06-02-2012\Problem01 - PHP_Variables\obj\Debug\Problem01 - PHP_Variables.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\6.02.2012\Exam-06-02-2012\Problem01 - PHP_Variables\obj\Debug\Problem01 - PHP_Variables.pdb

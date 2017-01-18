@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem12-ParseURL\bin\Debug\Problem12-ParseURL.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem12-ParseURL\bin\Debug\Problem12-ParseURL.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem12-ParseURL\bin\Debug\Problem12-ParseURL.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem12-ParseURL\obj\Debug\Problem12-ParseURL.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem12-ParseURL\obj\Debug\Problem12-ParseURL.pdb

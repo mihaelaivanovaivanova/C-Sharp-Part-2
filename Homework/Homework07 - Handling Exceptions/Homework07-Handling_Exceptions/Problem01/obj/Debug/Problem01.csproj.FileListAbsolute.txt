@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework07 - Handling Exceptions\Homework07-Handling_Exceptions\Problem01\bin\Debug\Problem01.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework07 - Handling Exceptions\Homework07-Handling_Exceptions\Problem01\bin\Debug\Problem01.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework07 - Handling Exceptions\Homework07-Handling_Exceptions\Problem01\bin\Debug\Problem01.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework07 - Handling Exceptions\Homework07-Handling_Exceptions\Problem01\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework07 - Handling Exceptions\Homework07-Handling_Exceptions\Problem01\obj\Debug\Problem01.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework07 - Handling Exceptions\Homework07-Handling_Exceptions\Problem01\obj\Debug\Problem01.pdb

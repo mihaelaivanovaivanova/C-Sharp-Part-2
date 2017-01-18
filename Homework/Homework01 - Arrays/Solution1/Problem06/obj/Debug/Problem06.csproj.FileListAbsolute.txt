@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem06\bin\Debug\Problem06.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem06\bin\Debug\Problem06.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem06\bin\Debug\Problem06.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem06\obj\Debug\Problem06.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework01 - Arrays\Solution1\Problem06\obj\Debug\Problem06.pdb

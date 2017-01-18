@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem23-SeriesOfLetters\bin\Debug\Problem23-SeriesOfLetters.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem23-SeriesOfLetters\bin\Debug\Problem23-SeriesOfLetters.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem23-SeriesOfLetters\bin\Debug\Problem23-SeriesOfLetters.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem23-SeriesOfLetters\obj\Debug\Problem23-SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem23-SeriesOfLetters\obj\Debug\Problem23-SeriesOfLetters.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem23-SeriesOfLetters\obj\Debug\Problem23-SeriesOfLetters.pdb

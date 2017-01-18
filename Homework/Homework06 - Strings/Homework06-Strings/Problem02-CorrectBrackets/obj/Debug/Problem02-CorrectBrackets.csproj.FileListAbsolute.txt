@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem02-CorrectBrackets\bin\Debug\Problem02-CorrectBrackets.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem02-CorrectBrackets\bin\Debug\Problem02-CorrectBrackets.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem02-CorrectBrackets\bin\Debug\Problem02-CorrectBrackets.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem02-CorrectBrackets\obj\Debug\Problem02-CorrectBrackets.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem02-CorrectBrackets\obj\Debug\Problem02-CorrectBrackets.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem02-CorrectBrackets\obj\Debug\Problem02-CorrectBrackets.csprojResolveAssemblyReference.cache

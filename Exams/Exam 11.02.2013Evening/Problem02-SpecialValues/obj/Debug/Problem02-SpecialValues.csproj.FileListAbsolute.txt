@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem02-SpecialValues\bin\Debug\Problem02-SpecialValues.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem02-SpecialValues\bin\Debug\Problem02-SpecialValues.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem02-SpecialValues\bin\Debug\Problem02-SpecialValues.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem02-SpecialValues\obj\Debug\Problem02-SpecialValues.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem02-SpecialValues\obj\Debug\Problem02-SpecialValues.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem02-SpecialValues\obj\Debug\Problem02-SpecialValues.pdb

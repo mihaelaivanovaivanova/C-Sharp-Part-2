@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem06 - Area By Two Sides And Angle\bin\Debug\Problem06 - Area By Two Sides And Angle.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem06 - Area By Two Sides And Angle\bin\Debug\Problem06 - Area By Two Sides And Angle.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem06 - Area By Two Sides And Angle\bin\Debug\Problem06 - Area By Two Sides And Angle.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem06 - Area By Two Sides And Angle\obj\Debug\Problem06 - Area By Two Sides And Angle.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem06 - Area By Two Sides And Angle\obj\Debug\Problem06 - Area By Two Sides And Angle.pdb

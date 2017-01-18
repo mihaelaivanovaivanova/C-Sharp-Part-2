@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem01-9Gag\bin\Debug\Problem01-9Gag.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem01-9Gag\bin\Debug\Problem01-9Gag.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem01-9Gag\bin\Debug\Problem01-9Gag.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem01-9Gag\obj\Debug\Problem01-9Gag.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem01-9Gag\obj\Debug\Problem01-9Gag.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam 11.02.2013Evening\Problem01-9Gag\obj\Debug\Problem01-9Gag.pdb

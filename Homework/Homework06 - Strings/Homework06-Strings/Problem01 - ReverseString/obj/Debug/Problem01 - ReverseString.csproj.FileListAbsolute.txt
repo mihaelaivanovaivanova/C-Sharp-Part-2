@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem01 - ReverseString\bin\Debug\Problem01 - ReverseString.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem01 - ReverseString\bin\Debug\Problem01 - ReverseString.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem01 - ReverseString\bin\Debug\Problem01 - ReverseString.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem01 - ReverseString\obj\Debug\Problem01 - ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem01 - ReverseString\obj\Debug\Problem01 - ReverseString.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem01 - ReverseString\obj\Debug\Problem01 - ReverseString.pdb

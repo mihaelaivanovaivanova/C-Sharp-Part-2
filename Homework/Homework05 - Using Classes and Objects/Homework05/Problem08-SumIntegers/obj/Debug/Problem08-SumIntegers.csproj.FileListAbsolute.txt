@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem08-SumIntegers\bin\Debug\Problem08-SumIntegers.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem08-SumIntegers\bin\Debug\Problem08-SumIntegers.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem08-SumIntegers\bin\Debug\Problem08-SumIntegers.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem08-SumIntegers\obj\Debug\Problem08-SumIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem08-SumIntegers\obj\Debug\Problem08-SumIntegers.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem08-SumIntegers\obj\Debug\Problem08-SumIntegers.pdb

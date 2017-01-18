@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam05.03.2015-Evening\Problem02\bin\Debug\Problem02.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam05.03.2015-Evening\Problem02\bin\Debug\Problem02.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam05.03.2015-Evening\Problem02\bin\Debug\Problem02.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam05.03.2015-Evening\Problem02\obj\Debug\Problem02.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam05.03.2015-Evening\Problem02\obj\Debug\Problem02.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Exams\Exam05.03.2015-Evening\Problem02\obj\Debug\Problem02.pdb

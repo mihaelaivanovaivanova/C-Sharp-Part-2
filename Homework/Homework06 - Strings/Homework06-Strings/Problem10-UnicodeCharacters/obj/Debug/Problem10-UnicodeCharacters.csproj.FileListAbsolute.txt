@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem10-UnicodeCharacters\bin\Debug\Problem10-UnicodeCharacters.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem10-UnicodeCharacters\bin\Debug\Problem10-UnicodeCharacters.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem10-UnicodeCharacters\bin\Debug\Problem10-UnicodeCharacters.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem10-UnicodeCharacters\obj\Debug\Problem10-UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem10-UnicodeCharacters\obj\Debug\Problem10-UnicodeCharacters.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem10-UnicodeCharacters\obj\Debug\Problem10-UnicodeCharacters.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem04-SubstringInText\bin\Debug\Problem04-SubstringInText.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem04-SubstringInText\bin\Debug\Problem04-SubstringInText.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem04-SubstringInText\bin\Debug\Problem04-SubstringInText.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem04-SubstringInText\obj\Debug\Problem04-SubstringInText.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework06 - Strings\Homework06-Strings\Problem04-SubstringInText\obj\Debug\Problem04-SubstringInText.pdb

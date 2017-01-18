@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework03 - Methods\Homework03\Problem14\bin\Debug\Problem14.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework03 - Methods\Homework03\Problem14\bin\Debug\Problem14.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework03 - Methods\Homework03\Problem14\bin\Debug\Problem14.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework03 - Methods\Homework03\Problem14\obj\Debug\Problem14.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework03 - Methods\Homework03\Problem14\obj\Debug\Problem14.pdb

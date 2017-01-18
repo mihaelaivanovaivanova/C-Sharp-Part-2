@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem07-WorkingDays\bin\Debug\Problem07-WorkingDays.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem07-WorkingDays\bin\Debug\Problem07-WorkingDays.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem07-WorkingDays\bin\Debug\Problem07-WorkingDays.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem07-WorkingDays\obj\Debug\Problem07-WorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem07-WorkingDays\obj\Debug\Problem07-WorkingDays.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework05 - Using Classes and Objects\Homework05\Problem07-WorkingDays\obj\Debug\Problem07-WorkingDays.pdb

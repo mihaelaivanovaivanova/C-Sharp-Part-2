@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework04 - Numeral Systems\Homework04\Problem06\bin\Debug\Problem06.exe.config
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework04 - Numeral Systems\Homework04\Problem06\bin\Debug\Problem06.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework04 - Numeral Systems\Homework04\Problem06\bin\Debug\Problem06.pdb
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework04 - Numeral Systems\Homework04\Problem06\obj\Debug\Problem06.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework04 - Numeral Systems\Homework04\Problem06\obj\Debug\Problem06.exe
+C:\Users\Mihaela\Desktop\C#\C#-2\Homework\Homework04 - Numeral Systems\Homework04\Problem06\obj\Debug\Problem06.pdb
